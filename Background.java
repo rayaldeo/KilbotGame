@@ -1,6 +1,3 @@
-package KilboltGame;
-
-
 public class Background {
 	
 	private int bgX, bgY, speedX;
